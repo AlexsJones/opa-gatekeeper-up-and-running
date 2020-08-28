@@ -56,7 +56,6 @@ package k8srequiredlabels
 ## Requirements
 - kubectl 
 - docker
-- 
 
 ### Further reading
 
