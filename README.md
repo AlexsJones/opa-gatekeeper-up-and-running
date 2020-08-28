@@ -57,3 +57,7 @@ package k8srequiredlabels
 - kubectl 
 - docker
 - 
+
+### Further reading
+
+https://github.com/AlexsJones/opa-gatekeeper-up-and-running
